@@ -1,0 +1,8 @@
+	DELHI2015 
+
+Pollutant      	level 
+
+PM10 		228 
+PM2.5 	 	123 
+NO2 		48 
+SO2 		4 

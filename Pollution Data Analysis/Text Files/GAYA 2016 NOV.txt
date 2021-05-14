@@ -1,0 +1,10 @@
+              GAYA2016       
+
+	Pollutant   	Level   			
+
+	CO   		2  		
+ 	SO2   		6  		
+	NO2   		78  		
+	O3   		12 		
+	PM2.5   	119 		
+	BENZENE	   	1 		

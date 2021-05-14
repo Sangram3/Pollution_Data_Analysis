@@ -1,0 +1,57 @@
+City		PM2.5  		PM10 
+ 
+Kanpur*		173 		319  
+Gaya* 		149 		275  
+Muzaffarpur*  	120 		221 
+Rawalpindi* 	107 		448 
+Jaipur*		105 		193 
+Patiala* 	101 		184 
+Jodhpur* 	98 		180 
+Narayangonj* 	94 		205 
+Baoding 	93 		147  
+Patna* 		144 		266  
+Delhi* 		143 		292 
+Gazipur* 	81 		143 
+Patna* 		144 		266  
+Varanasi* 	146 		260 
+Kolkata* 	74 		136 
+Faridabad* 	172 		316 
+Nagpur*		84 		86 
+Agra* 		131 		194
+
+Ahmedabad* 	65 		120  
+Lucknow* 	138 		255   
+
+Gurgaon* 	120 		124 
+Karachi 	88 		290   
+Anyang 		86 		155  
+Alwakrah 	85 		152 
+Khulna 		84 		94 
+Kampala 	104 		170 
+Handan 		82 		175 
+Heze 		82 		143 
+Jining 		82 		140 
+Bamenda		132 		141 
+Peshawar 	111 		540 
+Jinan 		90 		192 
+Xianyang 	82 		149 
+Barisal 	80 		113 
+Luoyang 	79 		130 
+Alahmadi  	79 		138 
+Shouguang  	78 		117  
+Yanbu 		75 		116 
+Linfen 		74 		158 
+Tangshan 	74 		127 
+Urumqi 		74 		115 
+
+Beijing	 	73 		92 
+Hebi 	 	73 		128 
+Jinan 	 	73 		141 
+Laiwu 	 	73 		127 
+
+Tianjin 	69 		103 
+Jiangyin 	68 		102 
+Lahore 		68 		198 
+Changzhi 	67 		101 
+Bafoussam 	67 		105 
+Chittagong 	66 		91   

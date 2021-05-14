@@ -1,0 +1,8 @@
+			DLELHi2013 
+				
+Pollutant  	Level   	I		
+				
+PM10 		240 			
+PM2.5 		358 			
+NO2 		100 			
+CO 		137 		

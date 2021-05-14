@@ -1,0 +1,21 @@
+                 DELHI2019 
+
+	Pollutant 		Level 
+
+	CO                      17  
+	PM2.5                   339 
+	PM10                    410 
+	O3                      10 
+	NO2                     57  
+	SO2                     9 
+ 
+
+
+
+
+
+
+
+
+
+
